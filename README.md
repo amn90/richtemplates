@@ -1,4 +1,4 @@
-﻿# Rich Templates
+# Rich Templates
 This folder is used to save <b>rich templates</b> for Bills, Entries, Cheques and any other templates that is supported by Al-Ameen 9.0. These templates are:
 * Templates distributed with Al-Ameen.
 * Templates developed after releasing Al-Ameen.
