@@ -7,8 +7,6 @@ This folder is used to save <b>rich templates</b> for Bills, Entries, Cheques an
 ## Folder Structure
 The templates are stored in heirarcal folder structure to simplfy orgnization of templates.
 
-<div dir='rtl' style='text-align:right'>
-
 # القوالب الغنية
 يستخدم هذا المجلد لتخزين القوالب الغنية  للفواتير والقيود والأوراق التجارية وغيرها من القوالب الغنية المدعومة بالأمين 9.0، هذه القوالب تتضمن:
 * القوالب المتضمنة مع برنامج الأمين
@@ -17,5 +15,3 @@ The templates are stored in heirarcal folder structure to simplfy orgnization of
 
 ## بنية المجلدات
 هذه القوالب يتم تخزينها ضمن مجلدات هرمية لتسهيل عملية تنظيم القوالب.
-
-</div>
